@@ -383,3 +383,4 @@ if (thisRepo.isAwesome()) {
 
 <p align="center"><strong><sup>:hugs: <br>Check out my other projects <a href="./PROJECTS.md">here</a>!</sup></strong></p>
 
+
